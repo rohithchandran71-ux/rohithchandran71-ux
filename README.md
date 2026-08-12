@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Machine Learning Student | Python Developer | Future AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Web+Developer;Design+Thinking+ML+Engineer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
 </div>
 
