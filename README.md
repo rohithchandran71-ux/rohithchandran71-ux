@@ -94,15 +94,6 @@
 ---
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rohithchandran71-ux&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
