@@ -93,17 +93,6 @@
 
 ---
 
-## 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithchandran71-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithchandran71-ux&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🌟 Featured Projects
 
