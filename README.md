@@ -94,12 +94,11 @@
 ---
 
 
-
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithchandran71-ux&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithchandran71-ux&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </p>
 
