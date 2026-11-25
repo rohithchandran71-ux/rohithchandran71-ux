@@ -151,6 +151,8 @@
   </tr>
 </table>
 
+---
+
 # 📚 Certifications
 
 🏅 IBM – Data Analytics
