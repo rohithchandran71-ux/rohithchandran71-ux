@@ -72,6 +72,8 @@
 - Java
 - C
 - SQL
+- C++
+- Javascript
 - HTML5
 - CSS3
 
@@ -107,6 +109,47 @@
 🧠 NLP Applications
 
 ---
+
+## 💼 Internships
+
+### <img src="https://img.shields.io/badge/ElevanceSkills-Full%20Stack%20Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="ElevanceSkills" />
+**Full Stack Developer Intern** 
+* Built and maintained full-stack web applications using modern frontend and backend technologies (React, Node.js, Express, MongoDB, REST APIs).
+* Implemented authentication, CRUD operations, API integrations, and responsive UI components.
+* Managed source code and project versions using Git and GitHub.
+
+### <img src="https://img.shields.io/badge/upSkill%20Campus-Data%20Analytics-2E8B57?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="upSkill Campus" />
+**Data Analytics Intern** 
+* Cleaned, processed, and analyzed datasets using Python (Pandas, NumPy) and SQL to uncover actionable insights.
+* Built interactive dashboards and visualizations using Power BI, Tableau, or Matplotlib.
+* Summarized analytical findings into clear project reports.
+
+---
+
+## 🌟 Current Roles & Leadership
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/airindia/DA0E29" width="55" alt="Air India Logo" />
+    </td>
+    <td>
+      <strong>Campus Ambassador — Air India</strong><br/>
+      <code>OCT-2026 – Present</code><br/>
+      Representing Air India on campus, driving student engagement, and promoting student travel initiatives and brand outreach.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://internshala.com/static/images/common/new_internshala_logo.svg" width="110" alt="Internshala Logo" />
+    </td>
+    <td>
+      <strong>Student Partner — Internshala</strong><br/>
+      <code>NOV-2026 – Present</code><br/>
+      Connecting students with internships and skill-building programs, organizing campus awareness drives, and supporting career readiness.
+    </td>
+  </tr>
+</table>
 
 # 📚 Certifications
 
